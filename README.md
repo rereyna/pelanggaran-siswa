@@ -1,15 +1,14 @@
-# Pelanggaran Siswa
+kelar saya pak, asli ini prisma lama bener
+intinya maafin saya kalau sederhana bgt, kan orang yang dulunya sederhana kelak akan menjadi kaya raya, (hehe)
 
-Project sederhana untuk remedial UTS Pemrograman Web.
-
-## Fitur
+clue fitur:
 - Menampilkan data pelanggaran
 - Tambah data
 - Edit data dengan dynamic route `[id]`
 - Hapus data
 - API GET `/api/pelanggaran`
 
-## Menjalankan project
+
 
 ```bash
 npm install
@@ -18,7 +17,7 @@ npx prisma migrate dev --name init
 npm run dev
 ```
 
-Buka:
+Buka ini biar bisa diliatt:
 http://localhost:3000/pelanggaran
 
 API:
